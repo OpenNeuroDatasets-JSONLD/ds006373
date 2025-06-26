@@ -1,0 +1,5 @@
+filename	acq_time	operator	randstr
+fmap/sub-SIC02_ses-43189_acq-SE_dir-AP_run-01_epi.nii.gz	2017-10-08T21:13:44.652500	n/a	ac412122
+fmap/sub-SIC02_ses-43189_acq-SE_dir-AP_run-02_epi.nii.gz	2017-10-08T21:13:44.652500	n/a	14ed6f57
+fmap/sub-SIC02_ses-43189_acq-SE_dir-PA_run-01_epi.nii.gz	2017-10-08T21:14:12.177500	n/a	af04aff3
+fmap/sub-SIC02_ses-43189_acq-SE_dir-PA_run-02_epi.nii.gz	2017-10-08T21:14:12.177500	n/a	ed1791df
